@@ -1,0 +1,156 @@
+{
+  "cn": [
+    {
+      "title": "飞行排行分类",
+      "description": "飞行排行分为“近 30 天”排行和“总排行”。"
+    },
+    {
+      "title": "飞行排行内容",
+      "description": "近 30 天排行和总排行中，展示飞行里程和飞行时间的累计。"
+    },
+    {
+      "title": "排行展示名次",
+      "description": "近 30 天排行和总排行的飞行里程和飞行时间排行，只展示前 100 名，超过 100 名不展示在排行中。"
+    },
+    {
+      "title": "排行的作用",
+      "description": "展示用户的飞行纪录，让用户了解飞行状况，同时提升用户的荣誉感。"
+    },
+    {
+      "title": "其他",
+      "description": "连续多次在排行中看到你，会有惊喜等着你哦～"
+    }
+  ],
+  "en": [
+    {
+      "title": "Ranking Category",
+      "description": "Ranking have two categories: \"30 days\" and \"TotalRanking\"."
+    },
+    {
+      "title": "Ranking Content",
+      "description": "In the lists of \"30 days\" and \"TotalRanking\", show \"TotalMile\" and \"TotalTime\"."
+    },
+    {
+      "title": "Ranking Reveal",
+      "description": "In the lists of \"30 days\" and \"TotalRanking\", only show Top 100."
+    },
+    {
+      "title": "Ranking Role",
+      "description": "Display the users' flight records, allowing users to know the flight conditions, while enhancing the users' sense of honor."
+    },
+    {
+      "title": "More…",
+      "description": "For many times to see you in the ranking, there will be surprises waiting for you…"
+    }
+  ],
+  "jp": [
+    {
+      "title": "ランキング分類",
+      "description": "ランキングは最近30日と総ランキングによって分類される"
+    },
+    {
+      "title": "ランキング内容",
+      "description": "最近30日と総ランキングでは、総距離と総時間が展示されている"
+    },
+    {
+      "title": "ランキング展示",
+      "description": "最近30日と総ランキングの距離と時間ランキングでは、前100名しか展示されない。"
+    },
+    {
+      "title": "ランキング役割",
+      "description": "ユーザーの飛行記録を展示し、飛行状況知らせて、同時にユーザーの栄誉感をアップさせる。"
+    },
+    {
+      "title": "その他",
+      "description": "何度もランキングであなたが見て、サプライズが待ってるよ"
+    }
+  ],
+  "kr": [
+    {
+      "title": "비행순위 분류",
+      "description": "비행순위는 최근 30일 순위와 총순위로 분류합니다."
+    },
+    {
+      "title": "비행순위 내용",
+      "description": "최근 30일 순위와 총순위는 비행거리와 비행시간의 누계를 표시합니다."
+    },
+    {
+      "title": "비행순위 표시",
+      "description": "최근 30일의 순위와 총순위의 비행거리, 비행 순위는 100번까지 표시하며, 100번을 초과하는 순위는 표시하지 않습니다."
+    },
+    {
+      "title": "순위의 효과",
+      "description": "사용자의 비행기록, 사용자의 비행 상황의 이해를 돕고, 동시에 사용자의 편리성을 증대시겼습니다."
+    },
+    {
+      "title": "기타",
+      "description": "연속적인 여러순위 기록을 통해 사용자의 비행기록을 확인할 수 있습니다."
+    }
+  ],
+  "tw": [
+    {
+      "title": "飛行排行分類",
+      "description": "飛行排行分為「近 30 天」排行和「總排行」。"
+    },
+    {
+      "title": "飛行排行內容",
+      "description": "近 30 天排行和總排行中，展示飛行里程和飛行時間的累計。"
+    },
+    {
+      "title": "排行展示名次",
+      "description": "近 30 天排行和總排行的飛行里程和飛行時間排行，只展示前 100 名，超過 100 名不展示在排行中。"
+    },
+    {
+      "title": "排行的作用",
+      "description": "展示用戶的飛行紀錄，讓用戶了解飛行狀況，同時提升用戶的榮譽感。"
+    },
+    {
+      "title": "其他",
+      "description": "連續多次在排行中看到你，會有驚喜等著你哦～"
+    }
+  ],
+  "hk": [
+    {
+      "title": "飛行排行分類",
+      "description": "飛行排行分為「近 30 天」排行和「總排行」。"
+    },
+    {
+      "title": "飛行排行內容",
+      "description": "近 30 天排行和總排行中，展示飛行里程和飛行時間的累計。"
+    },
+    {
+      "title": "排行展示名次",
+      "description": "近 30 天排行和總排行的飛行里程和飛行時間排行，只展示前 100 名，超過 100 名不展示在排行中。"
+    },
+    {
+      "title": "排行的作用",
+      "description": "展示用戶的飛行紀錄，讓用戶了解飛行狀況，同時提升用戶的榮譽感。"
+    },
+    {
+      "title": "其他",
+      "description": "連續多次在排行中看到你，會有驚喜等著你哦～"
+    }
+  ],
+  "fr": [
+    {
+      "title": "La classification du classement de vol",
+      "description": "Le classement de vol se divise les 30 jours derniers et le classement général."
+    },
+    {
+      "title": "Le contenu du classment de vol",
+      "description": "Le trajet de vol et la durée de vol eux montrent dans les classements qui les 30 jours derniers et général."
+    },
+    {
+      "title": "Montrer le classement",
+      "description": "Les classements qui miles et temps de vol dans les classements des 30 jours derniers et le classement général, de montrer à 100,il ne se montre pas plus de 100 dans la liste."
+    },
+    {
+      "title": "L'intention du classement",
+      "description": "Montrer le registre de vol qui vient des utilisateurs, laissent-ils comprendre l'état de vol et élever l'honneur de l'utilisateur."
+    },
+    {
+      "title": "Les autres",
+      "description": "Nous vous voyons dans le classement plusieurs foias, il y a la surprise vous attendez."
+    }
+  ]
+}
