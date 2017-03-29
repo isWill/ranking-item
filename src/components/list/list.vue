@@ -31,6 +31,10 @@
         } else {
           str = 'cn';
         }
+
+        if ((str !== 'cn') && (str !== 'en') && (str !== 'jp') && (str !== 'kr') && (str !== 'tw') && (str !== 'hk') && (str !== 'fr')) {
+          str = 'cn';
+        }
         return str;
       }
     },
