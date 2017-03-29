@@ -25,7 +25,7 @@
         let reg = /[?&][^?&]+=[^?&]+/g;
         let arr = url.match(reg);
         // ['?country=cn']
-        if (arr[0]) {
+        if (arr) {
           let val = arr[0].split('=')[1];
           str = val;
         } else {
