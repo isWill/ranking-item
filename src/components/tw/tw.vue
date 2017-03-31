@@ -19,7 +19,7 @@
       };
     },
     created() {
-      this.$http.get('/api/cn').then((response) => {
+      this.$http.get('/api/tw').then((response) => {
         response = response.body;
         if (response.errno === ERR_OK) {
           this.list = response.data;
