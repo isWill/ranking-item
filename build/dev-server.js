@@ -23,13 +23,62 @@ var proxyTable = config.dev.proxyTable
 var app = express()
 
 var appData = require('../data.json')
+var cn = appData.cn
+var en = appData.en
+var jp = appData.jp
+var kr = appData.kr
+var tw = appData.tw
+var hk = appData.hk
+var fr = appData.fr
 
 var apiRoutes = express.Router()
 
-apiRoutes.get('/appData', function (req, res) {
+apiRoutes.get('/cn', function (req, res) {
   res.json({
     errno: 0,
-    data: appData
+    data: cn
+  });
+})
+
+apiRoutes.get('/en', function (req, res) {
+  res.json({
+    errno: 0,
+    data: en
+  });
+})
+
+apiRoutes.get('/jp', function (req, res) {
+  res.json({
+    errno: 0,
+    data: jp
+  });
+})
+
+apiRoutes.get('/kr', function (req, res) {
+  res.json({
+    errno: 0,
+    data: kr
+  });
+})
+
+apiRoutes.get('/tw', function (req, res) {
+  res.json({
+    errno: 0,
+    data: tw
+  });
+})
+
+apiRoutes.get('/hk', function (req, res) {
+  res.json({
+    errno: 0,
+    data: hk
+  });
+})
+
+apiRoutes.get('/fr', function (req, res) {
+  res.json({
+    errno: 0,
+    data: fr
   });
 })
 

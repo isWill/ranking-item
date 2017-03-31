@@ -2,7 +2,7 @@
   <div class="list-wrapper">
     <ul class="item-list">
       <li class="item" v-for="item in list">
-        <h2 class="title"><i></i><span>{{item.title}}</span></h2>
+        <h2 class="title"><i class="icon-optin-monster"></i><span>{{item.title}}</span></h2>
         <p class="desc">{{item.description}}</p>
       </li>
     </ul>
@@ -61,18 +61,16 @@
           margin-bottom: .3rem
           text-align: left
           font-size: 0
-          i
-            display: inline-block
-            margin-right: .2rem
-            width: .4rem
-            height: .4rem
-            background: url("./dian.png") no-repeat
-            background-size: 100% 100%
-            vertical-align: top
-          span
+          i, span
             height: .4rem
             line-height: .4rem
             font-size: .28rem
+          i
+            display: inline-block
+            margin-right: .2rem
+            vertical-align: top
+            color: #42b983
+          span
             font-weight: 700
             color: #333
 

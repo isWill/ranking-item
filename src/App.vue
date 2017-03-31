@@ -3,40 +3,37 @@
     <split></split>
     <div class="tab">
       <div class="tab-item">
-        <router-link to="/api/appData?country=cn">cn</router-link>
+        <router-link to="/cn">cn</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=en">en</router-link>
+        <router-link to="/en">en</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=jp">jp</router-link>
+        <router-link to="/jp">jp</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=kr">kr</router-link>
+        <router-link to="/kr">kr</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=tw">tw</router-link>
+        <router-link to="/tw">tw</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=hk">hk</router-link>
+        <router-link to="/hk">hk</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/api/appData?country=fr">fr</router-link>
+        <router-link to="/fr">fr</router-link>
       </div>
     </div>
-    <list></list>
     <router-view></router-view>
   </div>
 </template>
 
 <script type="text/ecmascript-6">
   import split from '@/components/split/split';
-  import list from '@/components/list/list';
 
   export default {
     components: {
-      split,
-      list
+      split
     }
   };
 </script>
