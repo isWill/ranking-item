@@ -11,6 +11,7 @@ import fr from '@/components/fr/fr';
 Vue.use(Router);
 
 export default new Router({
+  linkActiveClass: 'active',
   routes: [
     {
       path: '/',

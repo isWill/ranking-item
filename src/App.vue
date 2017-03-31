@@ -24,7 +24,9 @@
         <router-link to="/fr">fr</router-link>
       </div>
     </div>
-    <router-view></router-view>
+    <keep-alive>
+      <router-view></router-view>
+    </keep-alive>
   </div>
 </template>
 
@@ -50,6 +52,6 @@
         line-height: .8rem
         text-align: center
         font-size: .3rem
-        &.router-link-active
+        &.active
           color: #42b983
 </style>
