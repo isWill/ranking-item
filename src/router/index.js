@@ -15,7 +15,7 @@ export default new Router({
   routes: [
     {
       path: '/',
-      component: cn
+      redirect: '/cn'
     },
     {
       path: '/cn',
