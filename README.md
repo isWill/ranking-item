@@ -1,6 +1,6 @@
-# ranking
+# ranking-item
 
-> A Vue.js project
+> 一个简单的Vue.js项目，该项目用于演示如何利用vue-router实现页面路由。
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
